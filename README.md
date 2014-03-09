@@ -1,5 +1,5 @@
 ## Cloudify Cosmo  Manager
-#test12345678
+#test1234567
 Cosmo is the code name for the new release of Cloudify (version 3.0). Cloudify is an open soruce tool for deploying, managing and scaling applications on the cloud. 
 This repo contains the source code for the Cloudify Cosmo management server. 
 To install Cloudify Cosmo refer the [README file of the Cloudify Cosmo CLI project](https://github.com/CloudifySource/cosmo-cli/blob/develop/README.md). 
