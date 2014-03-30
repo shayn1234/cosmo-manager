@@ -1,3 +1,6 @@
+imports:
+    - cloudify.types
+
 plugins:
     bash_runner:
         derived_from: cloudify.plugins.agent_plugin
